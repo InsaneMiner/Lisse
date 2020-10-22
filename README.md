@@ -10,7 +10,7 @@ My programming forum: https://lsknow.com/
 
 ### how to run:
  - qemu-system-i386 -cdrom Lisse.iso
- or
+ - OR
  - burn to disc
 
 This os does not support UEFI yet.
