@@ -12,3 +12,6 @@ run with:
 qemu-system-i386 -cdrom Lisse.iso
 
 This os does not support UEFI yet.
+<br>
+###commands
+ - clear
