@@ -18,4 +18,4 @@ This os does not support UEFI yet.
 ### commands
  - clear
 <br>
-Please request for source code on my facebook group then if lots of people are interested I wull put it up on this repo. 
+Please request for source code on my facebook group then if lots of people are interested I will put it up on this repo. 
