@@ -9,21 +9,25 @@ This os does not support UEFI mode only legacy.
  - qemu-system-i386 -cdrom Lisse.iso
  - OR
  - burn to disc
-<br>
+ 
 ### Commands
  - clear
+ 
 ### How to compile
  - run build.sh
+
 ### What you will need
  - gcc
  - ld
  - grub-mkrescue
  - nasm
+ 
 ### Features
  - one command
  - x86 
  - keyboard
  - interrupts
+ 
  
 Join my facebook group: https://www.facebook.com/groups/389439008744739/
 <br/>
