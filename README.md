@@ -2,7 +2,8 @@
 
 
 Very simple command line Operating System.
-
+<br>
+Feel free to commit some code.
 
 Join my facebook group: https://www.facebook.com/groups/389439008744739/
 <br/>
@@ -18,4 +19,18 @@ This os does not support UEFI yet.
 ### commands
  - clear
 <br>
-Please request for source code on my facebook group then if lots of people are interested I will put it up on this repo. 
+### How to compile
+run build.sh
+<br>
+
+### What you will need
+ - gcc
+ - ld
+ - grub-mkrescue
+ - nasm
+### Features
+ - one command
+ - x86 
+ - keyboard
+ - interrupts
+
