@@ -14,7 +14,7 @@ This os does not support UEFI mode only legacy.
  - clear
  
 ### How to compile
- - run build.sh
+ - run the file build.sh
 
 ### What you will need
  - gcc
