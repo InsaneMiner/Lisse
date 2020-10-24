@@ -18,7 +18,6 @@ This os does not support UEFI yet.
 <br>
 ### commands
  - clear
-<br>
 ### How to compile
  - run build.sh
 <br>
