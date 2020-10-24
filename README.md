@@ -4,24 +4,16 @@
 Very simple command line Operating System.
 <br>
 Feel free to commit some code.
-
-Join my facebook group: https://www.facebook.com/groups/389439008744739/
-<br/>
-My programming forum: https://lsknow.com/
-
-### how to run:
+This os does not support UEFI mode only legacy.
+### How to run:
  - qemu-system-i386 -cdrom Lisse.iso
  - OR
  - burn to disc
-
-This os does not support UEFI yet.
 <br>
-### commands
+### Commands
  - clear
 ### How to compile
  - run build.sh
-<br>
-
 ### What you will need
  - gcc
  - ld
@@ -32,4 +24,7 @@ This os does not support UEFI yet.
  - x86 
  - keyboard
  - interrupts
-
+ 
+Join my facebook group: https://www.facebook.com/groups/389439008744739/
+<br/>
+My programming forum: https://lsknow.com/
