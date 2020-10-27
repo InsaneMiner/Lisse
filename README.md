@@ -4,7 +4,10 @@
 Very simple command line Operating System.
 <br>
 Feel free to commit some code.
+<br>
 This os does not support UEFI mode only legacy.
+<br>
+Sorry about the messy code.
 ### How to run:
  - qemu-system-i386 -cdrom Lisse.iso
  - OR
@@ -32,3 +35,5 @@ This os does not support UEFI mode only legacy.
 Join my facebook group: https://www.facebook.com/groups/389439008744739/
 <br/>
 My programming forum: https://lsknow.com/
+<br>
+My new os dev wiki: https://edguru.com.au/
